@@ -12,6 +12,8 @@ while True:
     #This handles what the user will select
     choice = input("Enter a Number: ")
 
+    #This allows our user to quit by inputting the specified command.
+
     if choice == 'q' or choice == 'Q':
         break
 
@@ -36,3 +38,4 @@ while True:
 
     print()
 
+#test item written
